@@ -29,11 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-[![Lqzo's github stats](https://github-readme-stats.shion.dev/api?username=lqzo&show_icons=true&theme=vue-dark)](https://github.com/lqzo)
-
----
-
 ### 📫 Get in touch
 - 📧 **Email**: 18903968616@163.com
 - 💬 **WeChat**: ll1353619565
